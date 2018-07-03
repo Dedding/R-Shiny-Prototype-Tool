@@ -1,0 +1,37 @@
+#metaModel {
+    height: 100% !important;
+    width: 80% !important;
+    margin: auto !important;
+}
+
+.main-header .navbar{
+	background-color: #ffd400 !important;
+}
+
+.main-header>.logo {
+	background-color: #ffd400 !important;
+}
+
+#uulogo {
+	display: table;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+#uulogo img{
+ 	width: 150px;
+}
+
+.content-wrapper, .right-side {
+	overflow-y: auto;
+	max-height: 600px;
+}
+
+.box {
+	border-top-color: #222d32 !important;
+}
+
+.mainBox .box,
+.nav-tabs-custom>.nav-tabs>li.active {
+	border-top-color: #ffd400 !important;
+}
